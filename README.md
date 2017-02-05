@@ -59,3 +59,10 @@ b.ELECTIVE(VARCHAR2)
 # Create VALUE table in database 
 # Create Column(Don't Change The Order)
 a.VER(NUMBER)
+Click this link to go to Gmail settings: https://www.google.com/settings/u/0/security/lesssecureapps.
+Turn on
+Goto to src->mailer.java->goto line 21->set your gmail and password
+# setting for admin portal
+Goto admin portal(UserId ="rajat" password="bansal")
+# Instructions
+when all students registration is completed then only click on START ELECTIVE PORTAL(This is only for one time)
