@@ -18,7 +18,7 @@ public class Mailer {
 	      Session session = Session.getDefaultInstance(props,  
 	       new javax.mail.Authenticator() {  
 	       protected PasswordAuthentication getPasswordAuthentication() {  
-	       return new PasswordAuthentication("1996rajatbansal@gmail.com","@9414315254");//change accordingly  
+	       return new PasswordAuthentication("xxxxx@gmail.com","password");//change accordingly  
 	       }  
 	      });  
 	       
