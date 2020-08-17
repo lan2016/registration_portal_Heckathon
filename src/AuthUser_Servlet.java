@@ -14,7 +14,7 @@ public class AuthUser_Servlet extends HttpServlet {
 	String pass=request.getParameter("roll");
 	if(name.equals("rajat")&&pass.equals("bansal"))
 			{
-		response.sendRedirect("admin.html");
+		response.sendRedirect("admin.html");//
 			}
 	else
 	{
